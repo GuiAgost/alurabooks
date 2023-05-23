@@ -12,6 +12,8 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
+    /* Para aparecer o menu abaixo */
+    position: relative;
 }
 
 .container {
@@ -21,4 +23,38 @@
 
 .container__imagem {
     padding: 1em;
+}
+
+.lista-menu {
+    display: none;
+    /* Para aparecer o menu abaixo */
+    position: absolute;
+    top: 100%; /* ou seja, o topo deste elemento deve estar 100% depois do cabeçalho */
+    width: 60vw; /* a largura da tela(view width) tem 60vw significa 60% da tela que está acessando a página */
+}
+
+.container__botao:checked~.lista-menu {
+    display: block;
+}
+
+.lista-menu__titulo, .lista-menu__item {
+    padding: 1em;
+    background-color: var(--branco);
+}
+
+.lista-menu__titulo {
+    color: var(--laranja);
+    font-weight: 700;
+}
+
+.lista-menu__link {
+    background: var(--azul-degrade);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;    
+    text-transform: uppercase;
+}
+
+.container__botao {
+    display: none;
 }
