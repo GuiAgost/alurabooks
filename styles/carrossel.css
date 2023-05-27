@@ -60,9 +60,9 @@
     font-size: 14px;
 }
 
-.botoes__item {
-    /* margin: 0 0.5em; */
-}
+/* .botoes__item {
+    margin: 0 0.5em;
+} */
 
 .botoes__ancora {
     background-color: var(--laranja);
