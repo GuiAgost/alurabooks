@@ -115,3 +115,33 @@
         display: none;
     }
 }
+
+.container__texto {
+    display: none;
+}
+
+/* Para layout 1728px (Desktop) */
+@media screen and (min-width: 1728px) {
+    .container__link {
+        display: flex;
+        align-items: center;
+        text-decoration: none;
+        color: var(--preto);
+    }
+
+    .cabecalho {
+        /* Espaçamento lateral (esquerda e direita) */
+        padding: 0 2em;
+    }
+
+    .container__texto {
+        display: block;
+    }
+
+
+    .opcoes {
+        /* Desloca as opções para lado esquerdo */
+        margin-right: auto;
+    }
+
+}
