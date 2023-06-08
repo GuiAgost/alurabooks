@@ -72,6 +72,10 @@
     text-decoration: none;
 }
 
+.botoes__ancora:active {
+    background-color: var(--azul);
+}
+
 /* Para layout 1024px (Tablet) */
 @media screen and (min-width: 1024px) {
     .carrossel__titulo {
@@ -115,6 +119,11 @@
         width: 50%;
     }
 
+    .swiper-slide:hover {
+        transform: scale(1.1);
+        transition: 700ms;
+    }
+
     .descricao__titulo {
         font-size: 32px;
     }
@@ -130,5 +139,10 @@
     .card {
         width: 60%;
         margin-left: 3em;
+    }
+
+    .card:hover {
+        transform: scale(1.1);
+        transition: 700ms;
     }
 }

@@ -46,4 +46,10 @@
         padding: 3em 28vw;
     }
 
+    .topicos__link:hover {
+        color: var(--laranja);
+        font-size: 32px;
+        transition: 700ms;
+        background-color: var(--branco);
+    }
 }
