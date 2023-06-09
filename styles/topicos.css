@@ -40,8 +40,8 @@
     }
 }
 
-/* Para layout 1728px (Desktop) */
-@media screen and (min-width: 1728px) {
+/* Para layout 888px (Desktop) */
+@media screen and (min-width: 888px) {
     .topicos {
         padding: 3em 28vw;
     }

@@ -137,8 +137,8 @@
     display: none;
 }
 
-/* Para layout 1728px (Desktop) */
-@media screen and (min-width: 1728px) {
+/* Para layout 888px (Desktop) */
+@media screen and (min-width: 888px) {
     .container__link {
         display: flex;
         align-items: center;
