@@ -1,8 +1,8 @@
-<p align="center"><img width="600"  alt="resultadoAula1" src="https://github.com/GuiAgost/front-end-alura/assets/76624588/e3d7e0b3-c7b6-42b4-8569-52c237a77ffb"></p>
+<p align="center"><img width="600"  alt="resultadoAula1" src="https://github.com/GuiAgost/alurabooks/assets/76624588/d630b53e-0320-49f0-8662-8bb6149c3837"></p>
 
 ##
 
-Este é o projeto alura-plus desenvolvido durante curso de HTML e CSS: praticando HTML e CSS da [Alura](https://www.alura.com.br/), ministrada pela instrutora Monica Hillman.
+Este é o projeto alurabooks desenvolvido durante curso de HTML e CSS: responsividade com mobile-first da [Alura](https://www.alura.com.br/), ministrada pela instrutora Monica Hillman.
 
 ##
 
@@ -14,7 +14,7 @@ Este é o projeto alura-plus desenvolvido durante curso de HTML e CSS: praticand
 
 🔗 Protótipo de interface
 
-[Projeto protótipo alura-plus](https://www.figma.com/file/tFDVyNuKhrT2G03k2dCstW/Alura-Plus---Layout?node-id=1%3A77)
+[Projeto protótipo alurabooks](https://www.figma.com/file/MSbJham9fIdRhtYwcb2Mlr/AluraBooks-(Copy)?type=design&t=MWewwjklgYFZMWqy-0)
 
 ##
 
@@ -24,8 +24,8 @@ Este é o projeto alura-plus desenvolvido durante curso de HTML e CSS: praticand
 
 🔗 Link do projeto
 
-* Link gerado através do github pages: https://guiagost.github.io/frontendAlura/aluraplus/
-* Ling gerado através do deploy na Vercel: https://frontendalura.vercel.app/
+* Link gerado através do github pages: 
+* Ling gerado através do deploy na Vercel: 
 
 
 
