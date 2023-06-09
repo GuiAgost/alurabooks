@@ -8,7 +8,7 @@ Este é o projeto alurabooks desenvolvido durante curso de HTML e CSS: responsiv
 
 🖥️ Tecnologias
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="50" hedight="50" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width="50" hedight="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="50" hedight="50" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width="50" hedight="50"/><img src="https://github.com/GuiAgost/alurabooks/assets/76624588/eea01e17-e05e-4c93-bfc5-52f00c4c3510" width="50" hedight="50"/>
 
 ##
 
