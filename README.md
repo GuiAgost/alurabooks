@@ -24,7 +24,7 @@ Este é o projeto alurabooks desenvolvido durante curso de HTML e CSS: responsiv
 
 🔗 Link do projeto
 
-* Link gerado através do github pages: 
+* Link gerado através do github pages: https://guiagost.github.io/alurabooks/
 * Ling gerado através do deploy na Vercel: 
 
 
