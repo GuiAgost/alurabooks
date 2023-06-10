@@ -11,8 +11,8 @@ hr {
     display: none;
 }
 
-/* Para layout 888px (Tablet) */
-@media screen and (min-width: 888px) { 
+/* Para layout 1024px (Tablet) */
+@media screen and (min-width: 1024px) { 
     .rodape {
         display: flex;
         justify-content: space-around;
