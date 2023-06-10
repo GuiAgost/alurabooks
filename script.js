@@ -1,6 +1,6 @@
 const swiper = new Swiper('.swiper', {
-    spaceBetween: 16,
-    slidesPerView: 2.7,
+    spaceBetween: 10,
+    slidesPerView: 3,
     pagination: {
         el: '.swiper-pagination',
         type: 'bullets',
