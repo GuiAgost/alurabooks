@@ -92,6 +92,10 @@
         font-weight: 700;
     }
 
+    .container__texto {
+        display: none;
+    }
+
     .opcoes {
         display: flex;
     }
