@@ -49,8 +49,8 @@
     }
 }
 
-/* Para layout 888px (Desktop) */
-@media screen and (min-width: 888px) { 
+/* Para layout 1728px (Desktop) */
+@media screen and (min-width: 1728px) { 
     .banner__pesquisa {
         width: 35%;
     }
