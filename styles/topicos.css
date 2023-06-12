@@ -1,13 +1,13 @@
 .topicos {
     background: var(--azul-degrade);
     text-align: center;
-    padding: 1.5em 0;
+    padding: 1em 0;
 }
 
 .topicos__titulo {
     color: var(--branco);
     font-weight: 300;
-    padding: 0 0 1.5em;
+    margin-bottom: 1em;
 }
 
 .topicos__lista {
@@ -17,16 +17,16 @@
 }
 
 .topicos__item {
-    background-color: var(--laranja);
-    font-size: 14px;
-    font-weight: 700;
-    margin: 0.5em; 
-    padding: 1.5em; 
+    margin: 2em 0.5em; 
 }
 
 .topicos__link {
     color: var(--branco);
+    padding: 1em;
+    background-color: var(--laranja);
     text-decoration: none;
+    font-size: 14px;
+    font-weight: 700;
 }
 
 /* Para layout 1024px (Tablet) */
@@ -40,8 +40,8 @@
     }
 }
 
-/* Para layout 888px (Desktop) */
-@media screen and (min-width: 888px) {
+/* Para layout 1728px (Desktop) */
+@media screen and (min-width: 1728px) {
     .topicos {
         padding: 3em 28vw;
     }
