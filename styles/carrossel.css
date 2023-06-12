@@ -102,8 +102,8 @@
     }
 }
 
-/* Para layout 888px (Desktop) */
-@media screen and (min-width: 888px) {
+/* Para layout 1728px (Desktop) */
+@media screen and (min-width: 1728px) {
     /* Carrossel e card ficam lado a lado */
     .carrossel__container {
         display: flex;
