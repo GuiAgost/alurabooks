@@ -45,18 +45,18 @@
     }
 
     .banner__pesquisa::placeholder {
-        background-position: 5em;
+        background-position: 7em;
     }
 }
 
 /* Para layout 1728px (Desktop) */
-@media screen and (min-width: 1728px) { 
+@media screen and (min-width: 1728px) {
     .banner__pesquisa {
         width: 35%;
     }
 
     .banner__pesquisa::placeholder {
-        background-position: 7em;
+        background-position: 12em;
     }
 
     .banner {
