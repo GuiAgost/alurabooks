@@ -7,7 +7,7 @@ Este é o projeto alurabooks desenvolvido durante curso de HTML e CSS: responsiv
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
 | :sparkles: Nome        | **Alurabooks**
-| :label: Tecnologias | html, css e swiper.js
+| :label: Tecnologias | html, css, javascript e swiper.js
 | :rocket: URL         | https://guiagost.github.io/alurabooks/
 | :fire: Curso     | https://cursos.alura.com.br/course/html-css-responsividade-mobile-first
 
