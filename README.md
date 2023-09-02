@@ -18,7 +18,9 @@ Este é o projeto alurabooks desenvolvido durante curso de HTML e CSS: responsiv
 
 ##
 
-### 	🚧 Projeto em desenvolvimento 🚧
+### 	📱Imagem do Projeto
+
+![Alurabook](https://github.com/GuiAgost/alurabooks/assets/76624588/6c6b1463-7b2c-4425-bdd6-c1716ad8a3d4#vitrinedev)
 
 ##
 
