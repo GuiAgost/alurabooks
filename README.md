@@ -1,4 +1,4 @@
-<p align="center"><img width="600"  alt="resultadoAula1" src="https://github.com/GuiAgost/alurabooks/assets/76624588/d630b53e-0320-49f0-8662-8bb6149c3837#vitrinedev"></p>
+<p align="center"><img width="600"  alt="resultadoAula1" src="https://github.com/GuiAgost/alurabooks/assets/76624588/d630b53e-0320-49f0-8662-8bb6149c3837"></p>
 
 # Alurabooks
 
